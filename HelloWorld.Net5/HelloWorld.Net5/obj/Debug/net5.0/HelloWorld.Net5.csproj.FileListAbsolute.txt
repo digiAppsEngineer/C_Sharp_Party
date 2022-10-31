@@ -1,0 +1,16 @@
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.exe
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.deps.json
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.runtimeconfig.json
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.runtimeconfig.dev.json
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.dll
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\bin\Debug\net5.0\HelloWorld.Net5.pdb
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.csproj.AssemblyReference.cache
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.AssemblyInfoInputs.cache
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.AssemblyInfo.cs
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.csproj.CoreCompileInputs.cache
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.dll
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\refint\HelloWorld.Net5.dll
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.pdb
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\HelloWorld.Net5.genruntimeconfig.cache
+C:\Users\plong\source\repos\HelloWorld.Net5\HelloWorld.Net5\obj\Debug\net5.0\ref\HelloWorld.Net5.dll
