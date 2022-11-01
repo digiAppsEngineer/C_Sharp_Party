@@ -1,0 +1,16 @@
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.exe
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.deps.json
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.runtimeconfig.json
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.dll
+C:\Users\plong\source\repos\Strings\Stings\bin\Debug\net5.0\Strings.pdb
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.dll
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\refint\Strings.dll
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.pdb
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+C:\Users\plong\source\repos\Strings\Stings\obj\Debug\net5.0\ref\Strings.dll
