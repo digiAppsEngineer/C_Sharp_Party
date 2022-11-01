@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Stings
-build_property.ProjectDir = C:\Users\plong\source\repos\Stings\Stings\
+build_property.RootNamespace = Strings
+build_property.ProjectDir = C:\Users\plong\source\repos\Strings\Strings\

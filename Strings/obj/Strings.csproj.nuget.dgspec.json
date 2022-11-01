@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plong\\source\\repos\\Stings\\Stings\\Strings.csproj": {}
+    "C:\\Users\\plong\\source\\repos\\Strings\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plong\\source\\repos\\Stings\\Stings\\Strings.csproj": {
+    "C:\\Users\\plong\\source\\repos\\Strings\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plong\\source\\repos\\Stings\\Stings\\Strings.csproj",
+        "projectUniqueName": "C:\\Users\\plong\\source\\repos\\Strings\\Strings\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\Users\\plong\\source\\repos\\Stings\\Stings\\Strings.csproj",
+        "projectPath": "C:\\Users\\plong\\source\\repos\\Strings\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\plong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plong\\source\\repos\\Stings\\Stings\\obj\\",
+        "outputPath": "C:\\Users\\plong\\source\\repos\\Strings\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
