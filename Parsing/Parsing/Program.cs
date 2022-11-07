@@ -61,6 +61,19 @@ namespace Parsing
             Console.WriteLine("super long text to give an example of what this string will produce with verbatim.  blah blah blah blah blah my kids are super smart and \n they are great helpers.super compasionate and empathetic, and they love to cook.  they love to be outside and playing with their rc cars and monster trucks");
             Console.WriteLine("Muahaha \n you have powers here!");
 
+
+            // exercise 1
+
+            string noString = "tutorials.eu";
+            string yesString = "Please enter your name and press enter";
+
+            Console.WriteLine(yesString.ToUpper());
+            Console.WriteLine(yesString.ToLower());
+            Console.WriteLine(@"noString");
+            Console.WriteLine(noString.Trim());
+
+
+
             // Console.WriteLine(result);
             Console.Read();
         
