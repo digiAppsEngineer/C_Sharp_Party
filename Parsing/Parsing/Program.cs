@@ -64,7 +64,7 @@ namespace Parsing
 
             // exercise 1
 
-            string noString = "tutorials.eu";
+            /*string noString = "tutorials.eu";
             string yesString = "Please enter your name and press enter";
 
             Console.WriteLine(yesString.ToUpper());
@@ -76,9 +76,54 @@ namespace Parsing
 
             // Console.WriteLine(result);
             Console.Read();
-        
+
+            // answer to exercise 1
+
+            string myName;
+            Console.Write("Please enter your name and press enter : ");
+            myName = Console.ReadLine();
+            string myNameUpperCase = String.Format("Upper case : {0}", myName.ToUpper());
+            string myNameLowerCase = String.Format("Lower case : {0}", myName.ToLower());
+            string myNameTrimmed = String.Format("Trimmed value : {0}", myName.Trim());
+            string myNameSubString = String.Format("Substring value : {0}", myName.Substring(0, 5));
             
-        
+            Console.WriteLine(myNameUpperCase);
+            Console.WriteLine(myNameLowerCase);
+            Console.WriteLine(myNameTrimmed);
+            Console.WriteLine(myNameSubString);
+
+            Console.ReadKey(); */
+
+
+            // exercise 2
+            /*
+            Console.Write("Please enter a string here: ");
+            // read input string first
+            string input = Console.ReadLine();
+
+            Console.Write("Enter a character search: ");
+            // read the character input
+            char searchInput = Console.ReadLine()[0];
+            // get indes of character from string
+            int searchIndex = input.IndexOf(searchInput);
+            // print index as a search result
+            Console.WriteLine("Index of character {0} in string is {1}", searchInput, searchIndex);*/
+
+
+
+            
+            Console.Write("Please enter your first name here: ");
+            // reads first name
+            string firstName = Console.ReadLine();
+            Console.Write("Please enter your last name here: ");
+            // reads last name
+            string lasstName = Console.ReadLine();
+            // concatinate first name and last name using variable
+            string fullName = string.Concat(firstName, "", lasstName);
+            Console.WriteLine("Your full name is {0}", fullName);
+
+            Console.ReadKey();
+
         }
     }
 }
